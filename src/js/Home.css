@@ -1,0 +1,60 @@
+*{
+    
+    margin: 0px;
+    padding: 0;
+    
+}
+.head2{
+    color:red;
+    text-align:center;
+    padding: 40px;
+}
+
+.mains{
+    padding-top: 50px;
+    display:flex;
+    max-width: 10%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.col5{
+    position:relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.align-items-center {
+    
+    align-items: center!important;
+}
+.flex {
+
+    display: flex!important;
+}
+.col12 {
+    
+     flex: 0 0 100%; 
+     max-width: 100%; 
+}
+.colf{ 
+
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+

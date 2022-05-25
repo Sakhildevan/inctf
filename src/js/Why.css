@@ -1,0 +1,108 @@
+.km img
+{
+width: 250px;
+height:350px;
+box-shadow: 1px 2px 5px 0px;
+border-radius: 150px;
+border: 2px solid transparent;
+            
+
+}
+.ki{
+    padding: 10px;
+    
+}
+
+/* .row1 h3{
+    padding-top: 15px;
+    
+    color: rgb(251, 246, 246);
+    text-decoration: none;
+   
+    
+} */
+.column2 {
+    
+ padding-top: 70px;
+ padding-left: 35px;
+  color: rgb(84, 234, 234);
+  
+  display: flex;
+     
+       
+   
+  }
+
+  .ki :hover
+ {
+    
+    border-radius: 50px;
+    
+ }
+ .column2 h3 {
+     padding-top: 20px;
+     height: 50px;
+     font-size: 25px;
+     width:auto;
+     color: aliceblue;
+     
+     
+    }
+
+  
+  .row1 {
+    
+    padding: top -10px;
+    
+   
+     
+  }
+  
+  .wh{
+    background: linear-gradient(-45deg, #8f3063, #331e26, #497e93, #3ca464);
+    background-size: 100%;
+    animation: gradient 15s ease infinite;
+    height: 100%;
+      width: 100%;
+      
+      background-size: cover;
+      height: 70rem;
+  }
+  .whh{
+      text-align: center;
+      color: red;
+     padding-top:100px;
+     bottom: 10px;
+     font-size: 30px;
+     font-family: 'Lucida Sans';
+     text-shadow: 1px 4px 4px rgba(200, 140, 140, 0.5);
+  }
+  .whh h1:hover{
+      color: aliceblue;
+      transition: 2s;
+  }
+
+  .ka{
+      position: relative;
+      
+      bottom: 10px;
+      
+      width: 23%;
+      }
+      .kb{
+          position:relative;
+          top: 70px;
+          padding:30px;
+          width:23%;
+      }
+      .kc{
+        position:relative;
+        bottom: 10px;
+        width:23%;
+    }
+    .kd{
+        position:relative;
+        top: 70px;
+        width:23%;
+    }
+  

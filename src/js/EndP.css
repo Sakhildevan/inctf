@@ -1,0 +1,74 @@
+.endprogram {
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+    padding-top: 10px;
+
+
+    background: linear-gradient(-45deg, #702e19, #59434b, #afc5ce, #57998a);
+   background-size: 100%;
+   animation: gradient 15s ease infinite;
+   height: 100%;
+  }
+  
+  .title_program {
+    font-size: calc(1.5rem + 2vw);
+    color: tomato;
+    font-weight: 600;
+    padding: 2rem 0;
+    margin-bottom: 1rem;
+    padding-top: 5px;
+  }
+  
+  .endhead {
+    color: white;
+    font-weight: 600;
+  }.enddet {
+    padding-top: 20px;
+    color: white;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap:20px;
+    padding-right: 50px;
+    align-items:stretch;
+    padding-left: 50px;
+    
+  }
+  
+  
+  .grid>article {
+    
+    border: 2px solid #ccc;
+    box-shadow: 2px 2px 6px 0px rgb(250, 248, 248);
+    
+  }
+  .grid>article:hover{
+    background-color: rgb(44, 33, 33);
+  }
+  
+  .grid>article img {
+    max-width: 100%;
+  }
+  
+  .grid .text {
+    padding: 20px;
+  }
+
+
+
+  
+
+@keyframes gradient {
+	0% {
+		background-position: 10% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
