@@ -91,6 +91,7 @@ const SpeakerCard = styled.div`
     .trainer-badge {
         background: tomato;
         
+        
     }
     .speaker-badge {
          background: tomato;

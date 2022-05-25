@@ -28,10 +28,14 @@ border: 2px solid transparent;
   color: rgb(84, 234, 234);
   
   display: flex;
-     
+ width:100%;
        
    
   }
+  .column2{
+      width: auto;
+  }
+  
 
   .ki :hover
  {
@@ -51,7 +55,7 @@ border: 2px solid transparent;
 
   
   .row1 {
-    
+    width: auto;
     padding: top -10px;
     
    

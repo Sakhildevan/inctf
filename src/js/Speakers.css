@@ -14,9 +14,11 @@
 }
 
 .hhh{
+    position: relative;
+    
     padding-top: -10px;
-    height: 200px;
-    border: 1px  solid red;
+    height: 150px;
+    border-bottom: 1px  solid red;
 }
 .col-12 {
     display:block;
