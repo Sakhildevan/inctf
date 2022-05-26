@@ -12,12 +12,14 @@
 }
 
 .nav2{
-    color:rgb(22, 1, 1) ;
+    color:rgb(52, 11, 11) ;
     font-size: 23px;
     font-weight: 20px;
 }
 .nav{
     position: fixed;
+    top:0;
+    z-index: 10;
     display: flex;
     gap: 50px;
     align-items: center!important;
@@ -26,7 +28,7 @@
     
     justify-content: space-between;
     background-color: rgb(254, 252, 252);
-    border-bottom: 3px solid rgb(246, 7, 7);
+    
 
     
     
@@ -64,9 +66,6 @@
 
 .nav1 img:hover{
     background-color: aliceblue;
-}
-.nave{
-    
 }
 .nave img{
     padding-top: 8%;
