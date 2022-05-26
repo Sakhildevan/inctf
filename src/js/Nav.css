@@ -95,7 +95,7 @@
     transform: translate(-50%, -50%);
     
   background: -webkit-linear-gradient(rgb(251, 3, 3),rgb(240, 10, 10),rgb(23, 3, 5), rgb(246, 9, 9));
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color:transparent;
    
 }
