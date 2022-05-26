@@ -1,0 +1,51 @@
+.eventhead{
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+.event{
+    width: 100%;
+    height: auto;
+}
+.event2{
+    margin: 20px;
+    
+    
+   
+}
+h1{
+    color: aqua;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+p{
+    font-size: 20px;
+    font-weight: 120px;
+    padding-left: 24px;
+    
+}
+h3{
+    color: tomato;
+    padding-left: 20px;
+}
+.ph2{
+    border: 1px solid;
+}
+.ph3{
+    border: 1px solid;
+    
+    
+}
+.ph0{
+    border: 1px solid;
+}
+.ph{
+    text-align: center;
+    position:relative;
+}
+.f1{
+        display: flex;
+
+    }
+    
+    
